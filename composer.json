@@ -1,0 +1,17 @@
+{
+    "name": "astylodon/validation",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Astylodon\\Validation\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    }
+}
